@@ -82,6 +82,14 @@ This list covers everything from real-time award alerts and search engines to cr
 
 ---
 
+## Related Awesome Lists
+
+- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and resources for startup founders.
+- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family tree libraries, and genealogy software.
+- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - Software stack used by venture capital firms.
+- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for healthcare recruiting.
+---
+
 ## Contributing
 
 Know an award-travel tool that should be on this list? Add it!
