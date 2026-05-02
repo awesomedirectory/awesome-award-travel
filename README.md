@@ -84,12 +84,14 @@ This list covers everything from real-time award alerts and search engines to cr
 
 ## Related Awesome Lists
 
-- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and resources for startup founders.
-- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family tree libraries, and genealogy software.
-- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - Software stack used by venture capital firms.
-- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for healthcare recruiting.
----
-
+- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and SaaS for startup founders — incorporation, finance, hiring, and growth.
+- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers.
+- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - The software stack used by modern venture capital firms — sourcing, diligence, portfolio support, and fund admin.
+- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for sourcing, screening, and hiring physicians, nurses, and other clinical staff.
+- [Awesome B2B Prospecting](https://awesomedirectory.github.io/awesome-b2b-prospecting/) - Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams.
+- [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
+- [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/) - PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
+- [Awesome Tech Sales](https://awesomedirectory.github.io/awesome-tech-sales/) - Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
 ## Contributing
 
 Know an award-travel tool that should be on this list? Add it!
