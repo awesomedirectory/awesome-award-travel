@@ -24,6 +24,7 @@ This list covers everything from real-time award alerts and search engines to cr
 * **[AwardClaw](https://awardclaw.com)** - Award availability alerts across major airline programs, with smart filters for premium cabins and partner space.
 * [Seats.aero Pro Alerts](https://seats.aero) - Premium tier with custom alerts and historical availability data.
 * [AwardTool](https://awardtool.com) - Email alerts for award seats matching saved searches.
+- [seats.wtf Alerts](https://seats.wtf/alerts) - Free alerts when award space opens.
 
 ## Award Search Engines
 *Tools for finding award seat availability across airline programs.*
@@ -33,6 +34,7 @@ This list covers everything from real-time award alerts and search engines to cr
 * [Roame.travel](https://roame.travel) - Award flight search engine with cash-equivalent valuations.
 * [AwardHacker](https://awardhacker.com) - Cheapest award redemption finder for a given route.
 * [AwardLogic](https://awardlogic.com) - Multi-program award search with AI route discovery.
+- [seats.wtf](https://seats.wtf) - Free live award search across dozens of airline programs.
 
 ## Points & Miles Trackers
 *Manage balances, expirations, and program statuses in one place.*
