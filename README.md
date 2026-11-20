@@ -22,6 +22,7 @@ This list covers everything from real-time award alerts and search engines to cr
 *Get notified when premium-cabin or hard-to-find award space opens up.*
 
 * **[AwardClaw](https://awardclaw.com)** - Award availability alerts across major airline programs, with smart filters for premium cabins and partner space.
+* **[Award Travel App](https://awardtravelapp.com)** - iPhone app that watches saver award space from your home airports and alerts you when bookable business and first class round trips appear.
 * [Seats.aero Pro Alerts](https://seats.aero) - Premium tier with custom alerts and historical availability data.
 * [AwardTool](https://awardtool.com) - Email alerts for award seats matching saved searches.
 
